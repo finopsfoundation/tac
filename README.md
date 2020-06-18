@@ -1,3 +1,3 @@
-# FinOps TSC
+# FinOps TAC
 
-The FinOps TSC oversees the FinOps definition, curriculum and technical vision of the FinOps Foundation.
+The FinOps TAC oversees the FinOps definition, curriculum and technical vision of the FinOps Foundation.
