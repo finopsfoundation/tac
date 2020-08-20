@@ -58,13 +58,14 @@ Archive of community presentations  - TBD
 ## SIGs
 The TAC will approved the formation of SIGs. Currently, the following Special Interest Groups are being considered:
 
-FinOps-for-Kubernetes (with a whitepaper delivered at CNC NA)
-FinOps-for-Finance (for Finance practitioners)
-FinOps-for-Engineers (for Finance practitioners)
-Education Committee
-FinOps-for-AWS
-FinOps-for-GCP
-FinOps-for-Azure
+* FinOps-for-Kubernetes (with a whitepaper delivered at CNC NA)
+* FinOps-for-Finance (for Finance practitioners)
+* FinOps-for-Engineers (for Finance practitioners)
+* Education Committee
+* FinOps-for-AWS
+* FinOps-for-GCP
+* FinOps-for-Azure
+* DIY-FinOps
 
 ## Working Groups
 The TAC has created the following working groups to investigate and discuss the following topics:
