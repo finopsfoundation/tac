@@ -20,18 +20,21 @@ The TAC will be committed to working in the open on GitHub: https://github.com/f
 
 ## Members
 
-10 Seats Initially - Mix of Practitioners, GB Appointed, Premier & General Members
+10 Seats Initially - Mix of Practitioners, GB Appointed, and Premier Members
 
-* Mike Fuller, Principal Systems Engineer for FinOps at Atlassian (TAC Chairperson)
-* Ashley Hromatko, Sr. Mgr FinOps at Pearson
-* Eugene Khvostov, VP Product & Eng at Apptio Cloudability (former AWS Insights)
-* John McLoughlin, Director Product Management for CloudHealth by VMware 
-* Matt Leonard, Billing Product Management for Google Cloud (former AWS/Microsoft)
-* Joseph Daly, Director of Cloud Optimization at Nationwide
-* General Member Seat - Election to be held
-* Practitioner Seat - Open
-* Practitioner Seat - Open
-* GB Appointed Seat - Open
+1. Mike Fuller, Principal Systems Engineer for FinOps at Atlassian (TAC Chairperson)
+1. Ashley Hromatko, Sr. Mgr FinOps at Pearson 
+1. Eugene Khvostov, VP Product & Eng at Apptio Cloudability (former AWS Insights)
+1. John McLoughlin, Director Product Management for CloudHealth by VMware 
+1. Matt Leonard, Billing Product Management for Google Cloud (former AWS/Microsoft)
+1. Joseph Daly, Director of Cloud Optimization at Nationwide
+
+As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have ten members determined as follows:
+
+* three individuals selected by vote of the Governing Board of the FinOps Foundation Fund, a directed fund of the Linux Foundation (the “Directed Fund”);
+* up to three seats for Premier Members of the Directed Fund, with each Premier Member having the right to appoint a representative to the TAC until such point in time as there are more than three Premier Members of the Directed Fund, after which the Premier Members will nominate and elect among themselves three members of the TAC;
+* three individuals that are FinOps Practitioners, as defined in the funding charter of the Directed Fund, selected or elected via a method to be determined by the Governing Board.
+* the remaining number of seats to be filled in a manner as determined by the TAC.
 
 ## Election schedule
 
