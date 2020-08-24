@@ -16,7 +16,7 @@ This Charter sets forth the responsibilities and procedures for technical contri
 
 2. Technical Advisory Council
 
-    3. The Technical Advisory Council (the "TAC") will be responsible for all technical oversight of the open source Project. From the inception of the Project until the point in time that the TAC votes to transition to an alternative membership structure (such point in time the “Transition Point”), the TAC will have seven members determined as follows:  
+    3. The Technical Advisory Council (the "TAC") will be responsible for all technical oversight of the open source Project. From the inception of the Project until the point in time that the TAC votes to transition to an alternative membership structure (such point in time the “Transition Point”), the TAC will have ten members determined as follows:  
 
         1. three individuals selected by vote of the Governing Board of the FinOps Foundation Fund, a directed fund of the Linux Foundation (the “Directed Fund”);
 
