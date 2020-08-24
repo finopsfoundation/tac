@@ -4,7 +4,7 @@
 
 **FinOps Project ****a Series of LF Projects, LLC**
 
-**Adopted ___________**
+**Adopted August 5, 2020**
 
 This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the **FinOps**** **open source project, which has been established as **FinOps Project **a Series of LF Projects, LLC (the "Project").  LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All contributors (including committers, maintainers, and other technical positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter. 
 
@@ -18,11 +18,14 @@ This Charter sets forth the responsibilities and procedures for technical contri
 
     3. The Technical Advisory Council (the "TAC") will be responsible for all technical oversight of the open source Project. From the inception of the Project until the point in time that the TAC votes to transition to an alternative membership structure (such point in time the “Transition Point”), the TAC will have seven members determined as follows:  
 
-        1. three individuals selected by vote of the Governing Board of the FinOps Foundation Fund, a directed fund of the Linux Foundation (the "Directed Fund");
+        1. three individuals selected by vote of the Governing Board of the FinOps Foundation Fund, a directed fund of the Linux Foundation (the “Directed Fund”);
 
         2. up to three seats for Premier Members of the Directed Fund, with each Premier Member having the right to appoint a representative to the TAC until such point in time as there are more than three Premier Members of the Directed Fund, after which the Premier Members will nominate and elect among themselves three members of the TAC;
 
-        3. the remaining number of seats to be filled in a manner as determined by the TAC.
+        3. three individuals that are FinOps Practitioners, as defined in the funding charter of the Directed Fund, selected or elected via a method to be determined by the Governing Board.
+        
+        4. the remaining number of seats to be filled in a manner as determined by the TAC.
+
 
     4. At the inception of the project, the Committers of the Project will be as set forth within the "CONTRIBUTING" file within the Project’s code repository. The TAC may choose an alternative approach for determining the voting members of the TAC, and any such alternative approach will be documented in the CONTRIBUTING file.  Any meetings of the Technical Advisory Council are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
 
