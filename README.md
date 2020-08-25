@@ -40,12 +40,6 @@ As defined by the Technical Charter, The Technical Advisory Council (the "TAC") 
 
 TBD
 
-## Projects
-
-TBD
-
-Do you want to contribute to a project? We have outlined the process to get started. If you have any questions or don't know where to start, please open an issue.
-
 ## Meeting Time
 
 TBD. The TAC will meet on the same day of every month.
@@ -58,9 +52,11 @@ Meeting Working Doc. This includes minutes from previous meetings.  - TBD
 Meeting agenda and presentations  - TBD
 Archive of community presentations  - TBD
 
-## SIGs
+## Special Interest Groups (SIGs) & Working Groups (WG)
 The TAC will approved the formation of SIGs. Currently, the following Special Interest Groups are being considered:
 
+* FinOps Capabilities
+* Definitions of Finops and Practitioners
 * FinOps-for-Kubernetes (with a whitepaper delivered at CNC NA)
 * FinOps-for-Finance (for Finance practitioners)
 * FinOps-for-Engineers (for Finance practitioners)
