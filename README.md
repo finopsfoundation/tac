@@ -12,13 +12,12 @@ The FinOps TAC is the technical governing body of the FinOps Foundation. TAC out
 * What skills do teams need to hire into FinOps roles? What are example jobs descriptions?
 * Managing the FinOps Landscape: https://github.com/finopsfoundation/finops-landscape
 * approving new projects within the scope for FinOps set by the Governing Board (GB)
-* accepting feedback from end user committee and map to projects
 
 ## Voting Members
 
 10 Seats Initially - Mix of Practitioners, GB Appointed, and Premier Members
 
-1. Mike Fuller, Principal Systems Engineer for FinOps at Atlassian (TAC Chairperson)
+1. Mike Fuller, Principal Systems Engineer for FinOps at Atlassian (TAC Chairperson through 12/31/2020)
 1. Ashley Hromatko, Sr. Mgr FinOps at Pearson 
 1. Eugene Khvostov, VP Product & Eng at Apptio Cloudability (former AWS Insights)
 1. John McLoughlin, Director Product Management for CloudHealth by VMware 
