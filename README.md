@@ -4,9 +4,6 @@ The FinOps TAC oversees the FinOps definition, curriculum and technical vision o
 
 The FinOps TAC is the technical governing body of the FinOps Foundation. TAC outputs are committed into an open source ecosystem to become standardized best practices. It admits and oversees all projects in the FinOps Foundation and has a mandate to facilitate driving neutral consensus for:
 
-
-The TAC will be committed to working in the open on GitHub: https://github.com/finopsfoundation/tac
-
 * What is the FinOps definition and capabilities for the industry? 
 * What is the open sourced curriculum of the FinOps trainings and certifications?
 * What capabilities are needed to be “FinOps Certified Platform”?
@@ -15,10 +12,9 @@ The TAC will be committed to working in the open on GitHub: https://github.com/f
 * What skills do teams need to hire into FinOps roles? What are example jobs descriptions?
 * Managing the FinOps Landscape: https://github.com/finopsfoundation/finops-landscape
 * approving new projects within the scope for FinOps set by the Governing Board (GB)
-* accepting feedback from end user committee and map to projects,
+* accepting feedback from end user committee and map to projects
 
-
-## Members
+## Voting Members
 
 10 Seats Initially - Mix of Practitioners, GB Appointed, and Premier Members
 
@@ -40,17 +36,19 @@ As defined by the Technical Charter, The Technical Advisory Council (the "TAC") 
 
 TBD
 
-## Meeting Time
+## Meetings and Lists
 
-TBD. The TAC will meet on the same day of every month.
+The TAC will be committed to working in the open on GitHub: https://github.com/finopsfoundation/tac
 
-[zoom link]
+The TAC meets every other Tuesday at 1pm Pacific Time. 
 
-## Minutes and materials 
-Meeting Agenda and Minutes - TBD
-Meeting Working Doc. This includes minutes from previous meetings.  - TBD
-Meeting agenda and presentations  - TBD
-Archive of community presentations  - TBD
+Attendance for voting TAC members is required, please send a proxy along with any updates if you are unable to join. Meetings are open to anyone.
+
+Working Doc and Agenda: https://docs.google.com/document/d/1_gesq-zy3948bwErO4DqVJYmFgL-cAY7Q2oGH4uQ-BI/edit#
+
+TAC emailing list (open to all): https://groups.google.com/a/finops.org/g/tac
+
+Zoom Meeting: https://us02web.zoom.us/j/85763363501
 
 ## Special Interest Groups (SIGs) & Working Groups (WG)
 The TAC will approved the formation of SIGs. Currently, the following Special Interest Groups are being considered:
@@ -65,8 +63,3 @@ The TAC will approved the formation of SIGs. Currently, the following Special In
 * FinOps-for-GCP
 * FinOps-for-Azure
 * DIY-FinOps
-
-## Working Groups
-The TAC has created the following working groups to investigate and discuss the following topics:
-
-TBD
