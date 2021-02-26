@@ -21,7 +21,7 @@ The FinOps TAC is the technical governing body of the FinOps Foundation. TAC out
 1. Ashley Hromatko, Sr. Mgr FinOps at Pearson 
 1. Eugene Khvostov, VP Product & Eng at Apptio Cloudability (former AWS Insights)
 1. John McLoughlin, Director Product Management for CloudHealth by VMware 
-1. Matt Leonard, Billing Product Management for Google Cloud (former AWS/Microsoft)
+1. Amitai Rottem, Billing Product Management for Google Cloud (former Microsoft)
 1. Joseph Daly, Director of Cloud Optimization at Nationwide
 
 As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have ten members determined as follows:
