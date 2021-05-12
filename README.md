@@ -24,6 +24,7 @@ The FinOps TAC is the technical governing body of the FinOps Foundation. TAC out
 1. Amitai Rottem, Billing Product Management for Google Cloud (former Microsoft)
 1. Joseph Daly, Director of Cloud Optimization at Nationwide
 1. Antoine Lagier, Contributing Editor and Maintainer of FinOps.world, and French SIG chair
+1. Rich Hoyer, Director of FinOps, SADA
 
 As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have ten members determined as follows:
 
