@@ -1,6 +1,6 @@
-# FinOps TAC
+# FinOps Technical Advisory Council
 
-The FinOps TAC oversees the FinOps definition, curriculum and technical vision of the FinOps Foundation.
+The FinOps TAC oversees the FinOps definition, curriculum and technical vision of the FinOps Foundation (https://www.finops.org/about/).
 
 The FinOps TAC is the technical governing body of the FinOps Foundation. TAC outputs are committed into an open source ecosystem to become standardized best practices. It admits and oversees all projects in the FinOps Foundation and has a mandate to facilitate driving neutral consensus for:
 
