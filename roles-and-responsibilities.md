@@ -8,7 +8,6 @@ The FinOps Foundation Technical Advisory Council chairperson responsibilities in
   * Being the member voice leading and setting the goals of the TAC
   * Collaborating with the Governing Board for funding initiatives that require funding
   * Helping to determine what new programs to launch
-  * Providing guidance and assistance to working groups, special interest groups and other initiatives that emerge from the TAC
   * Working alongside the FinOps Foundation Staff to:
       * Review the TAC meeting slides, as well as contributing content and agenda items
       * Moderate discussion sessions during the TAC meetings
