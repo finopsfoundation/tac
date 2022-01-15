@@ -13,18 +13,18 @@ The FinOps TAC is the technical governing body of the FinOps Foundation. TAC out
 * Managing the FinOps Landscape: https://github.com/finopsfoundation/finops-landscape
 * approving new projects within the scope for FinOps set by the Governing Board (GB)
 
-## Voting Members
+## TAC Voting Members
 
-10 Seats Initially - Mix of Practitioners, GB Appointed, and Premier Members
+Currently the TAC has 10 voting member seats, comprised of Practitioners, GB Appointed, and Premier members.
 
-1. Mike Fuller, Principal Systems Engineer for FinOps at Atlassian (TAC Chairperson through 12/31/2020)
+1. Mike Fuller, Principal Systems Engineer for FinOps at Atlassian (TAC Chairperson)
 1. Anders Hagman, Senior Manager, Technology Procurement at Spotify
-1. Amitai Rottem, Billing Product Management for Google Cloud (former Microsoft)
+1. Amitai Rottem, Billing Product Management at Google Cloud
 1. Melvin Brown, Deputy Chief Information Officer at US Government OPM
 1. Jeremy Ung, VP Engineering at Apptio
-1. John McLoughlin, Director Product Management for CloudHealth by VMware
+1. John McLoughlin, Director Product Management at CloudHealth by VMware
 1. Antoine Lagier, Contributing Editor and Maintainer of FinOps.world, and French SIG chair
-1. Rich Hoyer, Director of FinOps, SADA
+1. Rich Hoyer, Director of FinOps, at SADA
 1. Riley Jenkins, Sr. SRE/FinOps Architect at Domo
 
 As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have ten members determined as follows:
@@ -33,6 +33,32 @@ As defined by the Technical Charter, The Technical Advisory Council (the "TAC") 
 * up to three seats for Premier Members of the Directed Fund, with each Premier Member having the right to appoint a representative to the TAC until such point in time as there are more than three Premier Members of the Directed Fund, after which the Premier Members will nominate and elect among themselves three members of the TAC;
 * three individuals that are FinOps Practitioners, as defined in the funding charter of the Directed Fund, selected or elected via a method to be determined by the Governing Board.
 * the remaining number of seats to be filled in a manner as determined by the TAC.
+
+
+## TAC Emeritus Members
+We would like to acknowledge and thank our founding charter TAC members and their huge contributions to our community.
+
+* Jason Fuller, Head of Cloud Management & Operations at HERE Technologies
+* Mike Fuller, Principal Systems Engineer for FinOps at Atlassian
+* Ally Anderson, Business Operations Manager at Neustar
+* Alex Landis, Finance Manager/Business Partner – Platform Engineering at Autodesk
+* Joseph Daly, Director Cloud Optimization Services at Nationwide
+* Anders Hagman, Senior Manager, Technology Procurement at Spotify
+* Sascha Curth, Head of Global Cloud Strategy at OLX/Naspers
+* Jen Erickson, Senior Technology Project Manager at Bill.com
+* Jordi Espasa Clofent, Technology Platform Business Partner at Letgo
+* Jason Gorringe, Cloud and Virtual Services at Australia Post
+* Leon Jiang, Cloud Engineer at National Australia Bank
+* David Andrews, Senior IT Manager at Just Eat
+* John Merritt, Sr. Director Enterprise Technology & Operations at Thermo Fisher Scientific
+* Ashley Hromatko, FinOps Manager/Operations Management at Pearson PLC
+* Youssef Ibrahim, Lead Analyst Cloud Governance at Nike
+* Adriaan Bloem, Head of Digital Infrastructure at MBC
+* Michele Alessandrini, Head of Cloud Adoption and Governance at Yoox Net-A-Porter Group
+*
+
+
+
 
 ## Election schedule
 
