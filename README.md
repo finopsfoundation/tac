@@ -15,19 +15,21 @@ The FinOps TAC is the technical governing body of the FinOps Foundation. TAC out
 
 ## TAC Voting Members
 
-Currently the TAC has 10 voting member seats, comprised of Practitioners, GB Appointed, and Premier members.
+Currently the TAC has 11 voting member seats, comprised of Practitioners, GB Appointed, and Premier members.
 
-1. Mike Fuller, Principal Systems Engineer for FinOps at Atlassian (TAC Chairperson)
-1. Anders Hagman, Senior Manager, Technology Procurement at Spotify
 1. Amitai Rottem, Billing Product Management at Google Cloud
-1. Melvin Brown, Deputy Chief Information Officer at US Government OPM
+1. Anders Hagman, Senior Manager, Technology Procurement at Spotify
+1. Antoine Lagier, Contributing Editor and Maintainer of FinOps.world, and French SIG chair
 1. Jeremy Ung, VP Engineering at Apptio
 1. John McLoughlin, Director Product Management at CloudHealth by VMware
-1. Antoine Lagier, Contributing Editor and Maintainer of FinOps.world, and French SIG chair
+1. Kim Wier, Director Of Engineering at Target
+1. Melvin Brown, Deputy Chief Information Officer at US Government OPM
+1. Mike Fuller, Principal Systems Engineer for FinOps at Atlassian
 1. Rich Hoyer, Director of FinOps, at SADA
-1. Riley Jenkins, Sr. SRE/FinOps Architect at Domo
+1. Riley Jenkins, Sr. SRE/FinOps Architect at Domo (TAC Chairperson)
+1. William Bryant, Internet Services Finance at Apple
 
-As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have ten members determined as follows:
+As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have 11 members determined as follows:
 
 * three individuals selected by vote of the Governing Board of the FinOps Foundation Fund, a directed fund of the Linux Foundation (the “Directed Fund”);
 * up to three seats for Premier Members of the Directed Fund, with each Premier Member having the right to appoint a representative to the TAC until such point in time as there are more than three Premier Members of the Directed Fund, after which the Premier Members will nominate and elect among themselves three members of the TAC;
