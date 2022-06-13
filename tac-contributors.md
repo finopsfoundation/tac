@@ -15,9 +15,7 @@ The high level objectives of the FinOps Foundation are:
 
 These objectives are developed by the F2 Governing Board (GB) and TAC, in collaboration with the F2 Staff, to support the FinOps Foundation's mission. The F2's objectives will be used by the F2 staff to group,  plan,  and  drive operational activities within the FinOps Foundation.
 
-<br>
-
-#### Interested in becoming a FinOps Foundation TAC Contributor?
+<br><br>
 Read the FAQ below for more information and contact us at  <a href="mailto:hello@finops.org">hello@finops.org</a>  about becoming a TAC Contributor.
 
 _Not an F2 member?  ...[Click here to join the F2 Community](https://www.finops.org/membership/)_
