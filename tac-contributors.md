@@ -1,4 +1,4 @@
-# FinOps Foiundation TAC Contributor Members
+# FinOps Foundation TAC Contributor Role
 
 The Technical Advisory Council (TAC) Contributors are a subset of FinOps Foundation (F2) community members who are collectively called "TAC Contributors".  
 
