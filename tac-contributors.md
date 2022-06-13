@@ -19,7 +19,7 @@ These objectives are developed by the F2 Governing Board (GB) and TAC, in collab
 Read the FAQ below for more information and contact us at  <a href="mailto:hello@finops.org">hello@finops.org</a>  about becoming a TAC Contributor.
 
 _Not an F2 member?  
-...[Click here to join the F2 Community](https://www.finops.org/membership/)_
+[Click here to join the F2 Community](https://www.finops.org/membership/)_
 
 
 ---
@@ -30,7 +30,7 @@ _Not an F2 member?
 
 
 #### What is expected from TAC Contributors?
-> The expectation of a TAC Contributor is to be actively involved in activities that contribute to the F2's mission, including participating in F2 Working Groups (WG) and Special Interest Group (SIG) projects.  Additionally, TAC Contributors should attend  TAC meetings to provide updates and insights about F2 initiatives for which they are involved.  As a non-voting member of the TAC, they represent  the bridge between the TAC and the F2 community internally, advising and engaging on the frontline as a FinOps SME.
+> The expectation of a TAC Contributor is to be actively involved in initiatives that contribute to the F2's mission, including participating in F2 Working Groups (WG) and Special Interest Group (SIG) projects.  Additionally, TAC Contributors should attend  TAC meetings to provide updates and insights about F2 initiatives for which they are involved.  As a non-voting member of the TAC, they represent  the bridge between the TAC and the F2 community internally, advising and engaging on the frontline as a FinOps SME.
 
 
 #### Who can be a TAC Contributor?
