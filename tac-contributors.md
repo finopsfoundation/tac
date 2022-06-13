@@ -5,7 +5,7 @@ The Technical Advisory Council (TAC) Contributors are a subset of FinOps Foundat
 
 F2 community members that are selected for this role are considered subject matter experts and have an established knowledge-base in FinOps through their own experience and through engagement with the F2 community via WGs, SIGs and Slack conversations.
 
-TAC Contributors are non-voting members of the F2 TAC that work alongside [the F2 TAC voting members](/readme.md) and contribute to initiatives that support [the FinOps Foundation's objectives](https://www.finops.org/about/). They are expected to follow [the FinOps Foundation TAC's code of conduct](/codeofconduct.md).
+TAC Contributors are non-voting members of the F2 TAC that work alongside [the F2 TAC voting members](https://github.com/finopsfoundation/tac) and contribute to initiatives that support [the FinOps Foundation's objectives](https://www.finops.org/about/). They are expected to follow [the FinOps Foundation TAC's code of conduct](/codeofconduct.md).
 
 #### FinOps Foundation Objectives
 The high level objectives of the FinOps Foundation are:
@@ -18,7 +18,8 @@ These objectives are developed by the F2 Governing Board (GB) and TAC, in collab
 <br><br>
 Read the FAQ below for more information and contact us at  <a href="mailto:hello@finops.org">hello@finops.org</a>  about becoming a TAC Contributor.
 
-_Not an F2 member?  ...[Click here to join the F2 Community](https://www.finops.org/membership/)_
+_Not an F2 member?  
+...[Click here to join the F2 Community](https://www.finops.org/membership/)_
 
 
 ---
@@ -66,4 +67,4 @@ _Not an F2 member?  ...[Click here to join the F2 Community](https://www.finops.
 <br><br>
 #### Interested in becoming a FinOps Foundation TAC Contributor?
 
-Contact us at  <a href="mailto:hello@finops.org">hello@finops.org</a>  about becoming a TAC Contributor.
+Contact us at  <a href="mailto:hello@finops.org">hello@finops.org</a> to get started.
