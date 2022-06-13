@@ -7,7 +7,7 @@ F2 community members that are selected for this role are considered subject matt
 
 TAC Contributors are non-voting members of the F2 TAC that work alongside [the F2 TAC voting members](/readme.md) and contribute to initiatives that support [the FinOps Foundation's objectives](https://www.finops.org/about/). They are expected to follow [the FinOps Foundation TAC's code of conduct](/codeofconduct.md).
 
-##### FinOps Foundation Objectives
+#### FinOps Foundation Objectives
 The high level objectives of the FinOps Foundation are:
 1. Be the Central Community for Cloud FinOps,
 2. Advance Careers of FinOps Practitioners, and
@@ -17,7 +17,7 @@ These objectives are developed by the F2 Governing Board (GB) and TAC, in collab
 
 <br>
 
-##### Interested in becoming a FinOps Foundation TAC Contributor?
+#### Interested in becoming a FinOps Foundation TAC Contributor?
 Read the FAQ below for more information and contact us at  <a href="mailto:hello@finops.org">hello@finops.org</a>  about becoming a TAC Contributor.
 
 _Not an F2 member?  ...[Click here to join the F2 Community](https://www.finops.org/membership/)_
@@ -64,3 +64,8 @@ _Not an F2 member?  ...[Click here to join the F2 Community](https://www.finops.
 
 #### Why would anyone want to be a TAC Contributor?
 > TAC Contributors will be able to raise their profile in the broader FinOps community by being part of this SME group, including being celebrated both in FinOps Summit announcements and having public profiles on finopsdotorg.  Additionally, serving as a TAC Contributor will provide a pathway for community members to eventually become TAC voting members. It's worth mentioning that while being a TAC Contributor is not a prerequisite for becoming a TAC voting-member, it is helpful when considering a candidate given the expectation of their involvement internally with the F2's WGs, & SIGs.
+
+<br><br>
+#### Interested in becoming a FinOps Foundation TAC Contributor?
+
+Contact us at  <a href="mailto:hello@finops.org">hello@finops.org</a>  about becoming a TAC Contributor.
