@@ -39,7 +39,7 @@ _Not an F2 member?
 
 
 #### How do F2 community members become TAC Contributors?
-> Candidates must be F2 members.  Candidates may nominate themselves by filling out the information requested in [the candiate sheet](https://docs.google.com/document/d/1Y3_FfEYR1VYiSwfMbbzgc5i10wJhIsKeT7vOXtVqe90/edit?usp=sharing) and providing it to a member of the F2 staff for review by the TAC.  Additionally, the GB members, TAC members and F2 staff may propose community members to this role.  Once proposed, the TAC will vote to approve them joining the Technical Advisory Council as a TAC Contributor.
+> Candidates must be F2 members.  Candidates may nominate themselves by filling out the information requested in [the candiate sheet](https://docs.google.com/document/d/1Y3_FfEYR1VYiSwfMbbzgc5i10wJhIsKeT7vOXtVqe90/edit?usp=sharing) and providing it to a member of the F2 staff via <a href="mailto:hello@finops.org">hello@finops.org</a> for review by the TAC. Guidance is to add as many and as deteailed endorsements as needed to present the case well.  Additionally, the GB members, TAC members and F2 staff may propose community members to this role.  Once proposed, the TAC will vote to approve them joining the Technical Advisory Council as a TAC Contributor.
 
 
 
@@ -65,6 +65,6 @@ _Not an F2 member?
 > TAC Contributors will be able to raise their profile in the broader FinOps community by being part of this SME group, including being celebrated both in FinOps Summit announcements and having public profiles on finopsdotorg.  Additionally, serving as a TAC Contributor will provide a pathway for community members to eventually become TAC voting members. It's worth mentioning that while being a TAC Contributor is not a prerequisite for becoming a TAC voting-member, it is helpful when considering a candidate given the expectation of their involvement internally with the F2's WGs, & SIGs.
 
 <br><br>
-#### Interested in becoming a FinOps Foundation TAC Contributor?
+#### Interested in becoming a FinOps Foundation TAC Contributor or want to provide feedback?
 
 Contact us at  <a href="mailto:hello@finops.org">hello@finops.org</a> to get started.
