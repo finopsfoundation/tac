@@ -17,17 +17,19 @@ The FinOps TAC is the technical governing body of the FinOps Foundation. TAC out
 
 Currently the TAC has 11 voting member seats, comprised of Practitioners, GB Appointed, and Premier members.
 
-1. Amitai Rottem, Billing Product Management at Google Cloud
 1. Anders Hagman, Senior Manager, Technology Procurement at Spotify
-1. Antoine Lagier, Contributing Editor and Maintainer of FinOps.world, and French SIG chair
-1. Jeremy Ung, VP Engineering at Apptio
-1. John McLoughlin, Director Product Management at CloudHealth by VMware
-1. Kim Wier, Director Of Engineering at Target
-1. Melvin Brown, Deputy Chief Information Officer at US Government OPM
-1. Mike Fuller, Principal Systems Engineer for FinOps at Atlassian
-1. Rich Hoyer, Director of FinOps, at SADA
-1. Riley Jenkins, Sr. SRE/FinOps Architect at Domo (TAC Chairperson)
-1. William Bryant, Internet Services Finance at Apple
+2. Antoine Lagier, Contributing Editor and Maintainer of FinOps.world, and French SIG chair
+3. Bindu Sharma, Senior Manager, FinOps at Guidewire
+4. Jeremy Ung, VP Engineering at Apptio
+5. Kim Wier, Director Of Engineering at Target
+6. Lucas Paratore, Senior Product Line Manager at VMware
+7. Melvin Brown, Deputy Chief Information Officer at US Government OPM
+8. Michelle Dupuis, Senior Manager Cloud FinOps at Walgreens
+9. Noel Crowley, Director of Cloud FinOps at Fidelity
+10. Riley Jenkins, Sr. SRE/FinOps Architect at Domo (TAC Chairperson)
+11. Robinson Roacho, Financial Analyst at SADA
+12. Sarah McMullin, Product Management Lead Google Cloud Billing at Google
+13. William Bryant, Internet Services Finance at Apple
 
 As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have 11 members determined as follows:
 
