@@ -2,42 +2,34 @@
 
 The FinOps TAC oversees the FinOps definition, curriculum and technical vision of the FinOps Foundation (https://www.finops.org/about/).
 
-The FinOps TAC is the technical governing body of the FinOps Foundation. TAC outputs are committed into an open source ecosystem to become standardized best practices. It admits and oversees all projects in the FinOps Foundation and has a mandate to facilitate driving neutral consensus for:
+he FinOps Technical Advisory Council (TAC) is the technical governing body of the FinOps Foundation which has a mandate to facilitate driving neutral consensus of the FinOps Framework, provides direction for the development of open-source FinOps best practices used by the practitioner community, and guides the technical vision of the FinOps Foundation.
 
-* What is the FinOps definition and capabilities for the industry?
-* What is the open sourced curriculum of the FinOps trainings and certifications?
-* What capabilities are needed to be “FinOps Certified Platform”?
-* What qualifies a service provider to be “FinOps Certified Service Provider”?
-* What KPIs are used to measure quality and success in Cloud Financial Management?
-* What skills do teams need to hire into FinOps roles? What are example jobs descriptions?
-* Managing the FinOps Landscape: https://github.com/finopsfoundation/finops-landscape
-* approving new projects within the scope for FinOps set by the Governing Board (GB)
 
 ## TAC Voting Members
 
-Currently the TAC has 14 voting member seats, comprised of Practitioner seats, GB appointed seats and Premier member seats.
+Currently the TAC has 15 voting member seats, comprised of Practitioner seats, GB appointed seats and Premier member seats.
 
-1. Kim Wier, Director Of Engineering at Target
+1. Kim Wier (TAC Chairperson), Director Of Engineering at Target
 1. Noel Crowley, Director of Cloud FinOps at Fidelity Investments
 1. William Bryant, Internet Services Finance at Apple
 1. Vik Saluja, FinOps Director at Mastercard
-1. Mi1chael Flanakin, Principal Product Management Lead at Microsoft
+1. Michael Flanakin, Principal Product Management Lead at Microsoft
 1. Sarah McMullin, Product Management Lead Cloud Billing at Google
 1. Rick Ochs, AWS Cloud Optimization Product Management Lead at Amazon Web Services
-1. Alee Whitman, Sr. Staff Product Engineer (Cloud) at The Walt Disney Company
 1. David Lambert, Cloud Efficiency Engineering Manager at Adobe
 1. Tom Cross, Cloud Infrastructure Technical Lead at Aer Lingus
 1. Lucas Paratore, Senior Product Line Manager at VMware
-1. Laura Szakmary, TBM Program Manager at Government-wide Policy, GSA
 1. Riley Jenkins, Sr. SRE/FinOps Architect at Domo
 1. Casey Doran, VP of Product at Apptio, an IBM Company
 1. Courtney Bormann, Sr Mgr FinOps & Cloud Governance at General Mills
+1. Larry Advey, Senior Manager of FinOps at Twilio
+1. Parker Nancollas, Senior FinOps Consultant at SoftwareOne
 
-As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have 11 members determined as follows:
+As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have 15 members determined as follows:
 
 * three individuals selected by vote of the Governing Board of the FinOps Foundation Fund, a directed fund of the Linux Foundation (the “Directed Fund”);
 * up to three seats for Premier Members of the Directed Fund, with each Premier Member having the right to appoint a representative to the TAC until such point in time as there are more than three Premier Members of the Directed Fund, after which the Premier Members will nominate and elect among themselves three members of the TAC;
-* three individuals that are FinOps Practitioners, as defined in the funding charter of the Directed Fund, selected or elected via a method to be determined by the Governing Board.
+* four individuals that are FinOps Practitioners, as defined in the funding charter of the Directed Fund, selected or elected via a method to be determined by the Governing Board.
 * the remaining number of seats to be filled in a manner as determined by the TAC.
 
 
