@@ -13,7 +13,7 @@ Currently the TAC has 15 voting member seats, comprised of Practitioner seats, G
 1. Noel Crowley, Director of Cloud FinOps at Fidelity Investments
 1. William Bryant, Internet Services Finance at Apple
 1. Vik Saluja, FinOps Director at Mastercard
-1. Michael Flanakin, Principal Product Management Lead at Microsoft
+1. Vikram Desai, Principal Product Management Lead at Microsoft
 1. Sarah McMullin, Product Management Lead Cloud Billing at Google
 1. Rick Ochs, AWS Cloud Optimization Product Management Lead at Amazon Web Services
 1. David Lambert, Cloud Efficiency Engineering Manager at Adobe
