@@ -66,7 +66,7 @@ TBD
 
 The TAC will be committed to working in the open on GitHub: https://github.com/finopsfoundation/tac
 
-The TAC meets every other Tuesday at 1pm Pacific Time.
+The TAC meets every fourth Tuesday at 1pm Pacific Time.
 
 Attendance for voting TAC members is required, please send a proxy along with any updates if you are unable to join. Meetings are open to anyone.
 
