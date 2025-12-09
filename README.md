@@ -9,7 +9,6 @@ he FinOps Technical Advisory Council (TAC) is the technical governing body of th
 
 Currently the TAC has 15 voting member seats, comprised of Practitioner seats, GB appointed seats and Premier member seats.
 
-1. Kim Wier (TAC Chairperson), Director Of Engineering at Target
 1. Noel Crowley, Director of Cloud FinOps at Fidelity Investments
 1. William Bryant, Internet Services Finance at Apple
 1. Vik Saluja, FinOps Director at Mastercard
@@ -19,11 +18,12 @@ Currently the TAC has 15 voting member seats, comprised of Practitioner seats, G
 1. David Lambert, Cloud Efficiency Engineering Manager at Adobe
 1. Tom Cross, Cloud Infrastructure Technical Lead at Aer Lingus
 1. Lucas Paratore, Senior Product Line Manager at VMware
-1. Riley Jenkins, Sr. SRE/FinOps Architect at Domo
 1. Casey Doran, VP of Product at Apptio, an IBM Company
 1. Courtney Bormann, Sr Mgr FinOps & Cloud Governance at General Mills
 1. Larry Advey, Senior Manager of FinOps at Twilio
 1. Parker Nancollas, Senior FinOps Consultant at SoftwareOne
+1. Joshua Collier, FinOps Lead at Superhuman (formerly Grammarly)
+1. Tammy Burnitt, Director of FinOps at UiPath
 
 As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have 15 members determined as follows:
 
