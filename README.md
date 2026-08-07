@@ -14,7 +14,6 @@ Currently the TAC has 15 voting member seats, comprised of Practitioner seats, G
 1. Vik Saluja, FinOps Director at Mastercard
 1. Vikram Desai, Principal Product Management Lead at Microsoft
 1. Rahul Sharma, Product Lead, Google Cloud Billing Platform at Google
-1. Rick Ochs, AWS Cloud Optimization Product Management Lead at Amazon Web Services
 1. David Lambert, Senior Manager - Cloud Engineering at Adobe
 1. Tom Cross, Cloud Infrastructure Technical Lead at Aer Lingus
 1. Lucas Paratore, Senior Product Line Manager at VMware
@@ -23,7 +22,6 @@ Currently the TAC has 15 voting member seats, comprised of Practitioner seats, G
 1. Larry Advey, AI Economics Director at CloudZero
 1. Parker Nancollas, FinOps Practice Lead, North America at SoftwareOne
 1. Joshua Collier, FinOps Lead at Superhuman (formerly Grammarly)
-1. Tammy Burnitt, Director of FinOps at UiPath
 
 As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have 15 members determined as follows:
 
