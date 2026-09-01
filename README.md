@@ -62,8 +62,6 @@ We would like to acknowledge and thank our founding charter TAC members and thei
 * Youssef Ibrahim, Lead Analyst Cloud Governance at Nike
 * Adriaan Bloem, Head of Digital Infrastructure at MBC
 * Michele Alessandrini, Head of Cloud Adoption and Governance at Yoox Net-A-Porter Group
-* Tammy Burnitt, Director of FinOps at UiPath
-* Rick Ochs, Senior Manager, Cloud Optimisation at AWS
 
 
 
