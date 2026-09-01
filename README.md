@@ -34,11 +34,11 @@ Currently the TAC has 20 voting member seats, comprised of Practitioner seats, G
 1. Jarred Clore, AI & Cloud Value Economics (FinOps) Delivery Leader at Cisco (Term Start 1st November 2026)
 1. Erik Norman, FinOps Lead at Ypto Belgian Train (Term Start 1st November 2026)
 
-As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have 15 members determined as follows:
+As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have 20 members determined as follows:
 
 * three individuals selected by vote of the Governing Board of the FinOps Foundation Fund, a directed fund of the Linux Foundation (the “Directed Fund”);
 * up to three seats for Premier Members of the Directed Fund, with each Premier Member having the right to appoint a representative to the TAC until such point in time as there are more than three Premier Members of the Directed Fund, after which the Premier Members will nominate and elect among themselves three members of the TAC;
-* four individuals that are FinOps Practitioners, as defined in the funding charter of the Directed Fund, selected or elected via a method to be determined by the Governing Board.
+* seven individuals that are FinOps Practitioners, as defined in the funding charter of the Directed Fund, selected or elected via a method to be determined by the Governing Board.
 * the remaining number of seats to be filled in a manner as determined by the TAC.
 
 
@@ -62,7 +62,8 @@ We would like to acknowledge and thank our founding charter TAC members and thei
 * Youssef Ibrahim, Lead Analyst Cloud Governance at Nike
 * Adriaan Bloem, Head of Digital Infrastructure at MBC
 * Michele Alessandrini, Head of Cloud Adoption and Governance at Yoox Net-A-Porter Group
-*
+* Tammy Burnitt, Director of FinOps at UiPath
+* Rick Ochs, Senior Manager, Cloud Optimisation at AWS
 
 
 
