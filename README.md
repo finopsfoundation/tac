@@ -7,21 +7,32 @@ he FinOps Technical Advisory Council (TAC) is the technical governing body of th
 
 ## TAC Voting Members
 
-Currently the TAC has 15 voting member seats, comprised of Practitioner seats, GB appointed seats and Premier member seats.
+Currently the TAC has 20 voting member seats, comprised of Practitioner seats, GB appointed seats and Premier member seats.
 
-1. Noel Crowley, Director of Cloud FinOps at Fidelity Investments
-1. William Bryant, Internet Services Finance at Apple
+1. Noel Crowley, Director of Cloud FinOps at Fidelity Investments (Term End 1st November 2026)
+1. William Bryant, Internet Services Finance at Apple (Term End 1st November 2026)
 1. Vik Saluja, FinOps Director at Mastercard
 1. Vikram Desai, Principal Product Management Lead at Microsoft
 1. Rahul Sharma, Product Lead, Google Cloud Billing Platform at Google
 1. David Lambert, Senior Manager - Cloud Engineering at Adobe
-1. Tom Cross, Cloud Infrastructure Technical Lead at Aer Lingus
-1. Lucas Paratore, Senior Product Line Manager at VMware
+1. Tom Cross, Cloud Infrastructure Technical Lead at Aer Lingus (Term End 1st November 2026)
+1. Lucas Paratore, Senior Product Line Manager at VMware (Term End 1st November 2026)
 1. Casey Doran, VP of Product at Apptio, an IBM Company
 1. Courtney Bormann, Sr Mgr FinOps & Cloud Governance at General Mills
 1. Larry Advey, AI Economics Director at CloudZero
 1. Parker Nancollas, FinOps Practice Lead, North America at SoftwareOne
 1. Joshua Collier, FinOps Lead at Superhuman (formerly Grammarly)
+1. Letian Feng, Senior Manager of Product Management - Technical at AWS 
+1. Victoria Levy, Senior Staff FinOps Analyst at SailPoint (Term Start 1st November 2026)
+1. Anthony Johnson, Senior Director of FinOps and AI Economics at SHI International Corp. (Term Start 1st November 2026)
+1. Nicola Sfondrini, Partner Cloud Infrastructure at PWC Italy (Term Start 1st November 2026)
+1. Claudia Seffrin, CPO & COO at Pier Cloud (Term Start 1st November 2026)
+1. Amy Ashby, Senior Lead, FinOps and SAM at Under Armour (Term Start 1st November 2026)
+1. Sivaprakash Durairaj, Senior Manager, Product Management (FinOps/MCMP) at Lenovo (Term Start 1st November 2026)
+1. Stephen Old, COO at Synyega (Term Start 1st November 2026)
+1. George Parker, Senior Director, FinOps and Product Management at Salesforce (Term Start 1st November 2026)
+1. Jarred Clore, AI & Cloud Value Economics (FinOps) Delivery Leader at Cisco (Term Start 1st November 2026)
+1. Erik Norman, FinOps Lead at Ypto Belgian Train (Term Start 1st November 2026)
 
 As defined by the Technical Charter, The Technical Advisory Council (the "TAC") will have 15 members determined as follows:
 
