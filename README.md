@@ -13,10 +13,8 @@ Currently the TAC has 20 voting member seats, comprised of Practitioner seats, G
 1. Vikram Desai, Principal Product Management Lead at Microsoft
 1. Rahul Sharma, Product Lead, Google Cloud Billing Platform at Google
 1. David Lambert, Senior Manager - Cloud Engineering at Adobe
-1. Tom Cross, Cloud Infrastructure Technical Lead at Aer Lingus
-1. Lucas Paratore, Senior Product Line Manager at VMware
 1. Casey Doran, VP of Product at Apptio, an IBM Company
-1. Courtney Bormann, Sr Mgr FinOps & Cloud Governance at General Mills
+1. Courtney Bormann, Sr Mgr FinOps & Cloud Governance at General Mills //Resigned from seat - pending election vote to replace
 1. Larry Advey, AI Economics Director at CloudZero
 1. Parker Nancollas, FinOps Practice Lead, North America at SoftwareOne
 1. Joshua Collier, FinOps Lead at Superhuman (formerly Grammarly)
